@@ -1,0 +1,4 @@
+Suppliers.txt_Code          Suppliers.txt_Name
+C01                           HeadWare_Inc.
+C02                    FaceSafe_Innovations
+C03                          ArmorWear_Inc.

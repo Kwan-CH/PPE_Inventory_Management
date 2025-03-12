@@ -1,0 +1,15 @@
+From                 To                  Item_Code   Item_Name     Quantity(Box)           Date
+C01                  Health_Department   HC          Head_Cover              100       5-5-2024
+C01                  Health_Department   FS          Face_Shield             100       5-5-2024
+C02                  Health_Department   MS          Mask                    100       5-5-2024
+C03                  Health_Department   GW          Gown                    100       5-5-2024
+C03                  Health_Department   GL          Gloves                  100       5-5-2024
+C03                  Health_Department   SC          Shoe_Covers             100       5-5-2024
+C03                  Health_Department   GW          Gown                    150       6-5-2024
+Health_Department    H01                 MS          Mask                     50       6-9-2024
+Health_Department    H02                 MS          Mask                     10       9-6-2024
+Health_Department    H03                 GW          Gown                     30       9-6-2024
+C02                  Health_Department   MS          Mask                    150       1-5-2025
+C03                  Health_Department   GW          Gown                    150      4-10-2024
+Health_Department    H01                 GW          Gown                     50       4-8-2024
+Health_Department    H02                 GW          Gown                     50     20-05-2024

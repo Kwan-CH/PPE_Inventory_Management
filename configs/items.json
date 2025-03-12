@@ -1,0 +1,20 @@
+{
+    "HC": {
+        "name": "Head_Cover"
+    },
+    "FS": {
+        "name": "Face_Shield"
+    },
+    "MS": {
+        "name": "Mask"
+    },
+    "GL": {
+        "name": "Gloves"
+    },
+    "GW": {
+        "name": "Gown"
+    },
+    "SC": {
+        "name": "Shoe_Covers"
+    }
+}

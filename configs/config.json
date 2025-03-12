@@ -1,0 +1,19 @@
+{
+    "version": 1.1,
+
+    "controller": "./data/controller.txt",
+    "hospitals": "./data/hospitals.txt",
+    "ppe": "./data/ppe.txt",
+    "suppliers": "./data/suppliers.txt",
+    "transaction": "./data/transaction.txt",
+
+    "report": "./output/report.txt",
+
+    "maximum_attempt": 3,
+    "master_password": "1234",
+    "maximum_accounts": 4
+
+    
+
+
+}

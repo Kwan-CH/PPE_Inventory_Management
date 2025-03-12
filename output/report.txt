@@ -1,0 +1,10 @@
+This is the list of transaction that you want to see in month 5 in year 2024
+
+From                 To                  Item_Code   Item_Name     Quantity(Box)
+C01                 Health_Department   HC          Head_Cover              100
+C01                 Health_Department   FS          Face_Shield             100
+C02                 Health_Department   MS          Mask                    100
+C03                 Health_Department   GW          Gown                    100
+C03                 Health_Department   GL          Gloves                  100
+C03                 Health_Department   SC          Shoe_Covers             100
+C03                 Health_Department   GW          Gown                    150

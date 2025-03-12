@@ -1,0 +1,5 @@
+Hospitals.txt_Code          Hospitals.txt_Name
+H01                   Hospital_Kuala_Lumpur
+H02                       Hospital_Rambutan
+H03                         Hospital_Pantai
+H04                      Hospital_Tung_Shin
